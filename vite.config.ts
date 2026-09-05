@@ -9,5 +9,5 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] })
   ],
 
-  base: "/webshop-shop/"
+  base: "/webdemo-shop/"
 })
